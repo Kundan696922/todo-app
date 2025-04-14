@@ -1,6 +1,6 @@
 # 📝 ToDo App
 
-A simple and responsive ToDo list web application built using **HTML**, **CSS**, and **JavaScript**. This app allows users to add, mark as completed, and delete tasks with an intuitive interface.
+A simple and responsive ToDo list web application built using **HTML**, **CSS**, and **JavaScript**. This app allows users to add, update, and delete tasks with an intuitive interface.
 
 
 ## 📸 Overview
