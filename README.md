@@ -18,6 +18,10 @@ A simple and responsive ToDo list web application built using **HTML**, **CSS**,
 - Delete tasks individually
 - Responsive design for mobile and desktop
 
+## 🚀 Demo
+
+> You can play the game live here: 👉 [Show Demo](https://todo-app6969.netlify.app/)
+
 ## 🛠️ Technologies Used
 
 | Tool              | Description              |
