@@ -3,9 +3,9 @@
 A simple and responsive ToDo list web application built using **HTML**, **CSS**, and **JavaScript**. This app allows users to add, mark as completed, and delete tasks with an intuitive interface.
 
 
-📸 Overview
+## 📸 Overview
 
-##![Screenshot 2025-04-15 000832](https://github.com/user-attachments/assets/7ad0ab58-e746-4fc4-b39c-d3ac7c6ceb0e)
+![Screenshot 2025-04-15 000832](https://github.com/user-attachments/assets/7ad0ab58-e746-4fc4-b39c-d3ac7c6ceb0e)
 
 ![Screenshot 2025-04-15 001306](https://github.com/user-attachments/assets/3bfda1cc-40e9-4019-b232-f6e8a8e56ab2)
 
@@ -32,7 +32,7 @@ A simple and responsive ToDo list web application built using **HTML**, **CSS**,
 1. **Clone the repository or download the ZIP:**
 
    ```bash
-   git clone https://github.com/kundan696922/todo-app.git
+   https://github.com/Kundan696922/todo-app.git
 2. Open the app:
 
   - Just open the index.html file in your browser.
